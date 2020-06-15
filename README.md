@@ -1,2 +1,0 @@
-# pre-image-attack
-prologue
